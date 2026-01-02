@@ -8,3 +8,5 @@ tokyo:~/LearningC/ # ./assignment2
 3.140000 is a float!
 Hello, World! is a char!
 ```
+## I have changed
+good start 2

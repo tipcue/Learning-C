@@ -2,9 +2,9 @@
 
 int main(void)
 {
-  int integer = 5;
-  float floatvar = 3.14;
-  char string[] = "Hello, World!";
+  int integer = 62;
+  float floatvar = 9.11;
+  char string[] = "Hello, github!";
 
   printf("%d is an integer!\n", integer);
   printf("%f is a float!\n", floatvar);
