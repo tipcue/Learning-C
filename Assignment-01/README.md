@@ -6,3 +6,5 @@ Print "Hello, World!" to the terminal
 tokyo:~/LearningC/ # ./assignment1                                        
 Hello, World!
 ```
+## good start
+print "Hello Github!"
