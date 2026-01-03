@@ -13,7 +13,7 @@ int main(){
         count++;
         printf("wheather continue input? (y/n) :");
         char c;
-        getchar();
+        while((getchar())!='\n');
         scanf("%c",&c);     
         if(c!='y'){
             break;
