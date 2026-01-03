@@ -2,7 +2,7 @@
 
 int main()
 {
-    int array[10] = {0,1,2,3,4,5,6,7,8,9};
+    int array[12] = {0,1,2,3,4,5,6,7,8,9,10,11};
 
     printf("The array has %d elements.\n",sizeof(array) / sizeof(array[0]));
 
